@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel Cordero</h1>
-<h3 align="center">Project Manager | Fullstack developer</h3>
+<h3 align="center">Digital Project Manager | Fullstack Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/gabscordero" target="blank"><img src="https://img.shields.io/twitter/follow/gabscordero?logo=twitter&style=for-the-badge" alt="gabscordero" /></a> </p>
 
-- 🌱 I’m currently learning **python, data science**
+- 🌱 I’m currently learning **Python | Data Science | **
 
 - 📫 How to reach me **gabscordero@gmail.com**
 
